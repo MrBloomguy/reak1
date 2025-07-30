@@ -484,7 +484,7 @@ export default function Home() {
                   title: "Accroche HOOKED",
                   desc: "A captivating story of connection and transformation.",
                   img: "/accroche.jpg",
-                  link: "https://www.bellanaija.com/2024/10/samuel-alawode-accroche-teaser/"
+                  link: "https://www.imdb.com/title/tt36982205/"
                 },
                 {
                   slug: "the-bridge",
