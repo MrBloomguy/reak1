@@ -423,6 +423,20 @@ export default function Home() {
                   img: "/Anikulapo-1.webp movie.jpg",
                   link: "https://www.imdb.com/title/tt32212345/"
                 },
+      {
+                  slug: "anikulapo-mini",
+                  title: "Anikulapo: Rise of the Spectre",
+                  desc: "In a race against time to avoid a dismal fate, traveler Saro returns to Ojumo with orders to complete a nearly impossible task.",
+                  img: "/Anikulapo-1.jpg",
+                  link: "https://www.imdb.com/title/tt31078762/"
+                },
+       {
+                  slug: "citation",
+                  title: "Citaion",
+                  desc: "A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her.",
+                  img: "/citation_(film).jpg",
+                  link: "https://www.imdb.com/title/tt11481312"
+                },
                 {
                   slug: "recall",
                   title: "Recall",
@@ -486,14 +500,21 @@ export default function Home() {
                   img: "/swallow.jpg",
                   link: "https://www.imdb.com/title/tt14391622/"
                 },
-                {
-                  slug: "recall",
-                  title: "Recall",
-                  desc: "A suspenseful drama about memory and truth.",
-                  img: "/recall.jpg",
-                  link: "https://www.google.com/search?q=recall+movie+nigeria"
+         {
+                  slug: "Diamonds In The Sky",
+                  title: "Diamonds in the Sky",
+                  desc: "Three families navigate uncertainty when cancer affects their lives and presents emotional challenges that test their bonds.",
+                  img: "/diamonds.jpg",
+                  link: "https://www.imdb.com/title/tt14605694/"
                 },
                 {
+                  slug: "Omugwo",
+                  title: "Omugwo",
+                  desc: "The film is based on the Igbo tradition of Omugwo, a practice during which postpartum care is provided to a new mother, especially first time mothers.",
+                  img: "/omugwo.jpg",
+                  link: "https://www.imdb.com/title/tt15150392/"
+                },
+      {
                   slug: "life-and-dirt",
                   title: "Life and Dirt",
                   desc: "A moving story of resilience and hope.",
@@ -501,39 +522,25 @@ export default function Home() {
                   link: "https://www.google.com/search?q=life+and+dirt+movie"
                 },
                 {
+                  slug: "Mokalik (Mechanic)",
+                  title: "Mokalik",
+                  desc: "Mokalik' follows the career of an 11-year-old boy, Ponmile, from the middle-class suburbs who spends the day as a lowly apprentice at a mechanic workshop in order to view life from the other side of the tracks - When his father arrives to take him home; Ponmile has to make up his mind if he wants to return to school or take on his apprenticeship full time.",
+                  img: "/mechanik_300_427.jpg",
+                  link: "https://www.imdb.com/title/tt10327136/"
+                },
+                {
                   slug: "out-in-the-darkness",
                   title: "Out in the Darkness",
-                  desc: "A gripping Nigerian drama. (No description found)",
+                  desc: "A gripping Nigerian drama. ",
                   img: "/Out-in-the-dark.webp",
                   link: "https://www.google.com/search?q=out+in+the+darkness+naija+movie"
                 },
                 {
-                  slug: "djalifa",
-                  title: "Djalifa",
-                  desc: "A story of love and tradition. (No description found)",
-                  img: "/djalifa.png",
-                  link: "https://www.google.com/search?q=djalifa+movie"
-                },
-                {
-                  slug: "ijogbon",
-                  title: "Ijogbon",
-                  desc: "A coming-of-age adventure about four teenagers whose lives change after a mysterious discovery.",
-                  img: "/ijogbon.jpg",
-                  link: "https://www.imdb.com/title/tt28706446/"
-                },
-                {
-                  slug: "naija-christmas",
-                  title: "Naija Christmas",
-                  desc: "A fun Nigerian holiday film about family, love, and surprises.",
-                  img: "/Naija Christmas.jpg",
-                  link: "https://www.imdb.com/title/tt16390802/"
-                },
-                {
-                  slug: "accroche-hooked",
-                  title: "Accroche HOOKED",
-                  desc: "A captivating story of connection and transformation.",
-                  img: "/accroche.jpg",
-                  link: "https://www.imdb.com/title/tt32212345/"
+                  slug: "Tenant",
+                  title: "Tenant of the House",
+                  desc: "A driven politician looks to settle a long-standing crisis amid corruption, romance and personal agendas.",
+                  img: "/tenants.jpg",
+                  link: "https://www.imdb.com/title/tt16287560/"
                 },
               ]
                 .slice(0, showAllPortfolio ? undefined : 4)
