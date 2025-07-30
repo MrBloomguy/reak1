@@ -421,7 +421,7 @@ export default function Home() {
                   title: "Anikulapo (Movie)",
                   desc: "A mystical drama about Saro, a man who gains the power to conquer death. (Feature film)",
                   img: "/Anikulapo-1.webp movie.jpg",
-                  link: "https://www.imdb.com/title/tt32212345/"
+                  link: "https://www.imdb.com/title/tt21432050"
                 },
       {
                   slug: "anikulapo-mini",
@@ -484,7 +484,7 @@ export default function Home() {
                   title: "Accroche HOOKED",
                   desc: "A captivating story of connection and transformation.",
                   img: "/accroche.jpg",
-                  link: "https://www.imdb.com/title/tt36982205/"
+                  link: "https://www.imdb.com/title/tt34378265/"
                 },
                 {
                   slug: "the-bridge",
@@ -691,7 +691,7 @@ export default function Home() {
                 <Image src="/Citation_(film).jpg" alt="Citation Movie Poster" width={120} height={150} className="rounded-xl object-cover border-4 border-cyan-500 shadow-md" />
                 <div className="flex-1 text-center md:text-left">
                   <h3 className="text-2xl font-bold text-white mb-2">Citation</h3>
-                  <p className="text-cyan-400 mb-1 text-lg">AMAA 2021-2022: Best Soundtrack</p>
+                  <p className="text-cyan-400 mb-1 text-lg">AMAA 2021: Best Soundtrack</p>
                   <p className="text-slate-400 text-base">Africa Movie Academy Awards & National Film Awards</p>
                 </div>
               </div>
