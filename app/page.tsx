@@ -691,8 +691,8 @@ export default function Home() {
                 <Image src="/Citation_(film).jpg" alt="Citation Movie Poster" width={120} height={150} className="rounded-xl object-cover border-4 border-cyan-500 shadow-md" />
                 <div className="flex-1 text-center md:text-left">
                   <h3 className="text-2xl font-bold text-white mb-2">Citation</h3>
-                  <p className="text-cyan-400 mb-1 text-lg">Multiple Nominations</p>
-                  <p className="text-slate-400 text-base">Africa Movie Academy Awards & National Film Awards, 2021-2022</p>
+                  <p className="text-cyan-400 mb-1 text-lg">AMAA 2021-2022: Best Soundtrack</p>
+                  <p className="text-slate-400 text-base">Africa Movie Academy Awards & National Film Awards</p>
                 </div>
               </div>
             </div>
