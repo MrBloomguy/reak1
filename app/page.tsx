@@ -427,14 +427,14 @@ export default function Home() {
                   slug: "anikulapo-mini",
                   title: "Anikulapo: Rise of the Spectre",
                   desc: "In a race against time to avoid a dismal fate, traveler Saro returns to Ojumo with orders to complete a nearly impossible task.",
-                  img: "/Anikulapo-1.jpg",
+                  img: "/ani-mini.jpg",
                   link: "https://www.imdb.com/title/tt31078762/"
                 },
        {
                   slug: "citation",
-                  title: "Citaion",
+                  title: "Citation",
                   desc: "A bright student in Nigeria takes on the academic establishment when she reports a popular professor who tried to rape her.",
-                  img: "/citation_(film).jpg",
+                  img: "/Citation_(film).jpg",
                   link: "https://www.imdb.com/title/tt11481312"
                 },
                 {
@@ -511,15 +511,8 @@ export default function Home() {
                   slug: "Omugwo",
                   title: "Omugwo",
                   desc: "The film is based on the Igbo tradition of Omugwo, a practice during which postpartum care is provided to a new mother, especially first time mothers.",
-                  img: "/omugwo.jpg",
+                  img: "/omugwo.jpeg",
                   link: "https://www.imdb.com/title/tt15150392/"
-                },
-      {
-                  slug: "life-and-dirt",
-                  title: "Life and Dirt",
-                  desc: "A moving story of resilience and hope.",
-                  img: "/lifeanddirt.jpg",
-                  link: "https://www.google.com/search?q=life+and+dirt+movie"
                 },
                 {
                   slug: "Mokalik (Mechanic)",
